@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hello</h1>
+<h1>Hello There,</h1>
+<p> - 🔭 I’m currently working on my Portfolio </p>
+ 
