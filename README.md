@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hello There,</h1>
-<p> - 🔭 I’m currently working on my Portfolio </p>
- 
+<h1>Hi there, I'm Rohit! 👋</h1>
+
+- 🔭 I’m currently working on my Portfolio
+- 💬 Ask me about Backend Development with <u>Django</u>
+- 📫 How to reach me: ...
+- 😄 Pronouns: He / His
+- ⚡ Fun fact: I push more on <b>Bitbucket</b> than <b>Github</b>.
