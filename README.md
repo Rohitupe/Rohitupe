@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Portfolio
 - 💬 Ask me about Backend Development with <u>Django</u>
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+    <ul>
+      <li>[instagram : rohit_t_21] (https://www.instagram.com/rohit_t_21/) </li>
+    </ul>
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I push more on <b>Bitbucket</b> than <b>Github</b>.
