@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1>Hi there, I'm Rohit! 👋</h1>
 
 - 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently planning to learn <p style="text-decoration:underline;">PHP</p>
+- 🌱 I’m currently planning to learn <u>PHP</u>
 - 💬 Ask me about Backend Development with <u>Django</u>
 - 📫 How to reach me: [twitter - rohit_t_21](https://twitter.com/rohit_t_21) , [instagram - rohit_t_21](https://www.instagram.com/rohit_t_21/)
 - 😄 Pronouns: He / His
