@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Portfolio
 - 💬 Ask me about Backend Development with <u>Django</u>
-- 📫 How to reach me: [instagram - rohit_t_21] (https://www.instagram.com/rohit_t_21/)
+- 📫 How to reach me: [twitter - rohit_t_21](https://twitter.com/rohit_t_21) , [instagram - rohit_t_21](https://www.instagram.com/rohit_t_21/)
 
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I push more on <b>Bitbucket</b> than <b>Github</b>.
