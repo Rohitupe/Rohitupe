@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [www.iamrohit.com](www.iamrohit.com)
 
-- ⚡ Fun fact **I push more on <b>Bitbucket</b> than <b>Github</b>**
+- ⚡ Fun fact **I push more on <u>Bitbucket</u> than <u>Github</u>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
