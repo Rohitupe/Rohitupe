@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohit_t_21" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rohit_t_21" height="30" width="40" /></a>
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rohit_t_21" height="30" width="40" />](https://twitter.com/rohit_t_21){:target="_blank"}
 <a href="https://linkedin.com/in/tupe-rohit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tupe-rohit" height="30" width="40" /></a>
 <a href="https://fb.com/rohit.tupe.96" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rohit.tupe.96" height="30" width="40" /></a>
 <a href="https://instagram.com/rohit_t_21" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rohit_t_21" height="30" width="40" /></a>
