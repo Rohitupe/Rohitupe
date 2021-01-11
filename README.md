@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rohit Tupe.</h1>
 <h3 align="center">A passionate Software Tester/ QA Engineer from India</h3>
 
-- 🔭 I’m currently working on [my portfolio](www.iamrohit.com)
+- 🔭 I’m currently working on [my portfolio](https://www.iamrohit.com)
 
 - 🌱 I’m currently learning **Automation Tools for Testing, Java**
 
