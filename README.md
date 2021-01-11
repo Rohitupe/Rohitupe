@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Automation Tools for Testing, Java**
 
-- 👨‍💻 All of my projects are available at [IamROHIT](IamROHIT)
+<!-- - 👨‍💻 All of my projects are available at [IamROHIT](IamROHIT) -->
 
 - 💬 Ask me about **Software Testing(Manual, Automation)**
 
 - 📫 How to reach me **rohittupe21@gmail.com**
 
-- 📄 Know about my experiences [www.iamrohit.com](www.iamrohit.com)
+<!-- - 📄 Know about my experiences [www.iamrohit.com](www.iamrohit.com) -->
 
 - ⚡ Fun fact **I push more on ***Bitbucket*** **than** ***Github***.**
 
