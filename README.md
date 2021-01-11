@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Rohitupe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="It's Me"> -->
 
 <!-- New Code -->
-<div style="background-color:blue">
-<h1 align="center">Hi 👋, I'm Rohit T.</h1>
+<h1 align="center">Hi 👋, I'm Rohit Tupe.</h1>
 <h3 align="center">A passionate Software Tester/ QA Engineer from India</h3>
 
 - 🔭 I’m currently working on [my portfolio](www.iamrohit.com)
@@ -57,4 +56,3 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitupe&show_icons=true&locale=en&layout=compact" alt="rohitupe" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitupe&show_icons=true&locale=en" alt="rohitupe" /></p>
-</div>
