@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Automation Tools for Testing, Java**
 
-- 💻 All of my projects are available at [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/index.html)
+- 💻 All of my projects are available at [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/projects/project.html)
 
 - 💬 Ask me about **Software Testing(Manual, Automation)**
 
