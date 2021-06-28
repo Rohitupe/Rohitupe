@@ -29,17 +29,17 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rohit Tupe.</h1>
 <h3 align="center">A passionate Software Tester/ QA Engineer from India</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://rohitupe.github.io/iamrohit.github.io/index.html)
+<!-- - 🔭 I’m currently working on [My Portfolio](https://rohitupe.github.io/iamrohit.github.io/index.html) -->
 
-- 🌱 I’m currently learning **Automation Tools for Testing, Java & RPA**
+- 🌱 I’m currently learning **RPA Tools**
 
-- 💻 All of my projects are available at [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/projects/project.html)
+<!-- - 💻 All of my projects are available at [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/projects/project.html) -->
 
-- 💬 Ask me about **Software Testing(Manual, Automation) & RPA**
+- 💬 Ask me about **RPA**
 
 - 📫 How to reach me **rohittupe21@gmail.com**
 
-- 📄 Know about my experiences [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/index.html)
+<!-- - 📄 Know about my experiences [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/index.html) --> 
 
 - ⚡ Fun fact **I push more on ***Bitbucket*** **than** ***Github***.**
 
