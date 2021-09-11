@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- New Code -->
 <h1 align="center">Hi 👋, I'm Rohit Tupe.</h1>
-<h3 align="center">A passionate Software Tester/ QA Engineer from India</h3>
+<h3 align="center">A passionate RPA Developer from India</h3>
 
 <!-- - 🔭 I’m currently working on [My Portfolio](https://rohitupe.github.io/iamrohit.github.io/index.html) -->
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <!-- - 💻 All of my projects are available at [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/projects/project.html) -->
 
-- 💬 Ask me about **RPA**
+- 💬 Ask me about **RPA | Automations**
 
 - 📫 How to reach me **rohittupe21@gmail.com**
 
