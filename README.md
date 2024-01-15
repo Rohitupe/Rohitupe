@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on [My Portfolio](https://rohitupe.github.io/iamrohit.github.io/index.html) -->
 
-- 🌱 I’m currently learning **RPA Tools**
+- 🌱Experieced working with UiPath, BluePrism RPA Tools
 
 <!-- - 💻 All of my projects are available at [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/projects/project.html) -->
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <!-- - 📄 Know about my experiences [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/index.html) --> 
 
-- ⚡ Fun fact **I push more on ***Bitbucket*** **than** ***Github***.**
+- ⚡ Fun fact **Gamer And Automator.**
 
 - 😄 Pronouns: He / His 
 
