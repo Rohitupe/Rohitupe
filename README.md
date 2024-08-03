@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **RPA | Automations**
 
-- 📫 How to reach me **rohittupe21@gmail.com**
+<!-- - 📫 How to reach me **rohittupe21@gmail.com** -->
 
 <!-- - 📄 Know about my experiences [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/index.html) --> 
 
