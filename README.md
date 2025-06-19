@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohit_t_96" target="_blank">
-  <img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="rohit_t_96" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rohit_t_96" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/tupe-rohit" target="_blank">
-  <img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="tupe-rohit" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tupe-rohit" height="30" width="40" />
 </a>
 <a href="https://instagram.com/rohit_t_96" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rohit_t_96" height="30" width="40" />
