@@ -35,18 +35,19 @@ Here are some ideas to get you started:
 
 <!-- - 💻 All of my projects are available at [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/projects/project.html) -->
 
-- 💬 Ask me about **RPA | Automations**
+- 💬 Ask me about **RPA | Automations & AI**
 
 <!-- - 📫 How to reach me **rohittupe21@gmail.com** -->
 
 <!-- - 📄 Know about my experiences [IamROHIT](https://rohitupe.github.io/iamrohit.github.io/index.html) --> 
 
-- ⚡ Fun fact **It's done.**
-
-- 😄 Pronouns: He / His 
+- ⚡ Fun Fact: **It's done.**
+- 😄 Pronouns: He / His
+- 🛩️ Portfolio: <a href="https://rohit-tupe-portfolio.up.railway.app" target="_blank"> About me. </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://rohit-tupe-portfolio.up.railway.app" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="Rohit Tupe Portfolio" height="30" width="40" /> </a>
 <a href="https://twitter.com/rohit_t_96" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rohit_t_96" height="30" width="40" />
 </a>
